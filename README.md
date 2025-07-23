@@ -69,19 +69,12 @@ This helped us:
 
 With this insight, the mall can now **target each group in a smarter way** — offering the right deals to the right customers.
 
-## 🧰 Tools Used
+##  📌 Tools Used
 
 - Python (Jupyter Notebook)
 - `pandas`, `numpy`
 - `matplotlib`, `seaborn`
 - `scikit-learn` (KMeans, PCA, t-SNE, preprocessing)
-
-
-## 📌 Future Improvements
-
-- Add more features (like purchase history)
-- Compare results using DBSCAN or Hierarchical Clustering
-- Deploy an interactive dashboard (e.g., with Streamlit)
 
 ---
 📨 Submitted as part of the DeveloperHub Internship Program
