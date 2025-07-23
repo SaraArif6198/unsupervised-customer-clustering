@@ -23,7 +23,7 @@ By grouping similar customers, the mall can:
   - `Annual Income (k$)`
   - `Spending Score (1–100)`
 
-##  What I Did
+##  What we Did
 
 1. **Explored the data** using charts and graphs
 2. **Cleaned the data** by:
