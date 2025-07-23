@@ -83,3 +83,5 @@ With this insight, the mall can now **target each group in a smarter way** — o
 - Compare results using DBSCAN or Hierarchical Clustering
 - Deploy an interactive dashboard (e.g., with Streamlit)
 
+---
+📨 Submitted as part of the DeveloperHub Internship Program
